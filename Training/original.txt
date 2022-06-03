@@ -1,0 +1,50 @@
+General
+Complete name                            : https://evertz-mediator-x-devtest-component.s3.amazonaws.com/TEST_RX_MANUAL-OM51.dir/TEST_RX_MANUAL-OM51.mov?AWSAccessKeyId=AKIA6C2MLCU3AQUPICPG&Expires=1616769605&Signature=uwIB4Dha2mIqgR3jAK8hf4uWpPQ%3D
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   2016.09 (qt  /    /    /    )
+File size                                : 2.71 GiB
+Duration                                 : 8 min 50 s
+Overall bit rate                         : 43.9 Mb/s
+Encoded date                             : UTC 2021-03-22 17:35:45
+Tagged date                              : UTC 2021-03-22 17:35:45
+Writing library                          : Apple QuickTime
+FileExtension_Invalid                    : braw mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 HQ
+Codec ID                                 : apch
+Duration                                 : 8 min 50 s
+Bit rate                                 : 43.9 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.706
+Stream size                              : 2.71 GiB (100%)
+Writing library                          : aevz
+Encoded date                             : UTC 2021-03-22 17:35:45
+Tagged date                              : UTC 2021-03-22 17:35:45
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Other
+ID                                       : 2
+Type                                     : Time code
+Format                                   : QuickTime TC
+Duration                                 : 8 min 50 s
+Frame rate                               : 29.970 (30000/1001) FPS
+Time code of first frame                 : 01:00:00;00
+Time code, striped                       : Yes
+Encoded date                             : UTC 2021-03-22 17:35:45
+Tagged date                              : UTC 2021-03-22 17:35:45
+
+
